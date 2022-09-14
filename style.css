@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+   background-color: chartreuse;
+   width: 100%;
+   height: 568px;
+
+}
+.top-head{
+    margin-bottom: 0;
+    text-align: center;
+    color: cornflowerblue;
+    background-color: chartreuse;
+}
+.nav
+{
+text-align: center;
+}
+.content{
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    background-color: blue;
+}
+.menu{
+    margin-left: 40%;
+    }
+.menu2{
+    margin-left: 40%;
+    margin-top: 3px;
+}
+.menu3{
+    margin-left: 40%;
+    margin-top: 3px;
+}
+
+
+.menu5{
+    margin-left: 40%;
+    margin-top: 3px;
+}
+.menu6{
+    margin-left: 40%;
+    margin-top: 3px;
+}
+.menu7{
+    margin-left: 40%;
+    margin-top: 3px;
+}
+.menu8{
+    margin-left: 40%;
+    margin-top: 3px;
+    box-sizing: 25px;
+}
+.menu9{
+    margin-left: 40%;
+    margin-top: 3px; 
+    color: green;
+   
+}
